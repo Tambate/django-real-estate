@@ -1,0 +1,13 @@
+Django==5.0.6
+djangorestframework==3.15.1
+django-environ==0.11.2
+django-filter==24.2
+django-autoslug==1.9.9
+django-countries==7.3.0
+Pillow==10.3.0
+django-phonenumber-field==7.3.0
+phonenumbers==10.3.0
+psycopg2-binary==2.9.9
+flake9==3.9.2
+black==21.6b0
+isort==5.9.3
